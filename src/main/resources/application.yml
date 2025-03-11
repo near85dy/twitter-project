@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: TwitterProject
+  datasource:
+    url: ""
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
