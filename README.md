@@ -17,8 +17,8 @@ Lietotājs ievada savas piezīmes, un tās saglabājas atkarībā no lietotāja 
 - Ievadiet savas piezīmes, kas tiks saglabātas lietotāja datu bāzē.
 
 ## Autori
-- [Jūsu vārds]
+- Damians Geidels un Kirills Brežņevs
 
 ## License
-Šī projekta licencēšana tiek veikta saskaņā ar [atbilstošo licenci].
+Šī projekta licencēšana tiek veikta saskaņā ar mūsu darbu
 
